@@ -151,13 +151,13 @@ any shell cmd	Execute OS-level commands
 Managing multiple active sessions and issuing encrypted commands.
 ![C2 Server Console](screenshots/server_console.png)
 
-### 🛰️ Remote Surveillance
-Example of a successfully exfiltrated screenshot from a target machine.
-![Remote Screenshot](screenshots/agent_screenshot.png)
+🎮 Remote Shell & Session Interaction
+Executing standard OS commands and managing the remote file system through an encrypted tunnel.
+![Remote Screenshot](screenshots/session_management.png)
 
 ### ⌨️ Keylogger Data
 Retrieving captured keystrokes from the remote agent.
-![Keylogger Logs](screenshots/keylogger_data.png)
+![Keylogger Logs](screenshots/live_keylogger.png)
 
 ## 🛡️ Defensive Perspective
 
