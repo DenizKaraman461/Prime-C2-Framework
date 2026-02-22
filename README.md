@@ -151,7 +151,7 @@ any shell cmd	Execute OS-level commands
 Managing multiple active sessions and issuing encrypted commands.
 ![C2 Server Console](screenshots/server_console.png)
 
-🎮 Remote Shell & Session Interaction
+### 🎮 Remote Shell & Session Interaction
 Executing standard OS commands and managing the remote file system through an encrypted tunnel.
 ![Remote Screenshot](screenshots/session_management.png)
 
